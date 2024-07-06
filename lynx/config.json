@@ -1,0 +1,7 @@
+{
+"label":"Lynx",
+"icon":"lynx.png",
+"iconsel":"lynx.png",
+"launch":"launch.sh",
+"description":"Lynx web browser"
+}
